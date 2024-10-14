@@ -3,9 +3,9 @@ library/mongo:4
 gitlab/gitlab-ce:17.4.2-ce.0
 library/mysql:5.7-oracle
 #srs相关
-ossrs/httpx:1
-ossrs/signaling:1
-ossrs/srs:4
+registry.cn-beijing.aliyuncs.com/ossrs/httpx:1
+registry.cn-beijing.aliyuncs.com/ossrs/signaling:1
+registry.cn-beijing.aliyuncs.com/ossrs/srs:4
 #rancher1.6.30
 rancher/healthcheck:v0.3.8
 rancher/net:v0.13.17

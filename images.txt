@@ -2,3 +2,16 @@ library/nginx:stable
 library/mongo:4
 gitlab/gitlab-ce:17.4.2-ce.0
 library/mysql:5.7-oracle
+#srs相关
+ossrs/httpx:1
+ossrs/signaling:1
+ossrs/srs:4
+#rancher1.6.30
+rancher/healthcheck:v0.3.8
+rancher/net:v0.13.17
+rancher/net:holder
+rancher/metadata:v0.10.4
+rancher/network-manager:v0.7.22
+rancher/scheduler:v0.8.6
+rancher/dns:v0.17.4
+rancher/lb-service-haproxy:v0.9.14

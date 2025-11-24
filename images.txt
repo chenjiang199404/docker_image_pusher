@@ -3,6 +3,7 @@ registry.cn-hangzhou.aliyuncs.com/ossrs/httpx:1
 registry.cn-hangzhou.aliyuncs.com/ossrs/signaling:1
 registry.cn-hangzhou.aliyuncs.com/ossrs/srs:4
 registry.cn-hangzhou.aliyuncs.com/ossrs/srs:5
+registry.cn-hangzhou.aliyuncs.com/ossrs/srs:6
 #rancher1.6.30
 rancher/healthcheck:v0.3.8
 rancher/net:v0.13.17

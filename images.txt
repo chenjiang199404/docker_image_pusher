@@ -17,6 +17,7 @@ rancher/lb-service-haproxy:v0.9.14
 library/nginx:stable
 library/mongo:4
 library/mysql:5.7-oracle
+library/mysql:8.0
 gitlab/gitlab-ce:17.5.5-ce.0
 gitlab/gitlab-ce:17.8.7-ce.0
 gitlab/gitlab-ce:17.11.7-ce.0

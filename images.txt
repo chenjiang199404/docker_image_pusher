@@ -1,3 +1,8 @@
+#通用
+library/nginx:stable
+library/mongo:4
+library/mysql:5.7-oracle
+library/mysql:8.0
 #srs相关
 registry.cn-hangzhou.aliyuncs.com/ossrs/httpx:1
 registry.cn-hangzhou.aliyuncs.com/ossrs/signaling:1
@@ -13,11 +18,7 @@ rancher/network-manager:v0.7.22
 rancher/scheduler:v0.8.6
 rancher/dns:v0.17.4
 rancher/lb-service-haproxy:v0.9.14
-#通用
-library/nginx:stable
-library/mongo:4
-library/mysql:5.7-oracle
-library/mysql:8.0
+#gitlab
 gitlab/gitlab-ce:17.5.5-ce.0
 gitlab/gitlab-ce:17.8.7-ce.0
 gitlab/gitlab-ce:17.11.7-ce.0

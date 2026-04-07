@@ -1,4 +1,5 @@
 #通用
+jenkins/jenkins:latest
 library/nginx:stable
 library/mongo:4
 library/mysql:5.7-oracle

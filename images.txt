@@ -5,6 +5,9 @@ library/mongo:4
 library/mysql:5.7-oracle
 library/mysql:8.0
 ubuntu/bind9
+# crm
+espocrm/espocrm:latest
+
 #srs相关
 registry.cn-hangzhou.aliyuncs.com/ossrs/httpx:1
 registry.cn-hangzhou.aliyuncs.com/ossrs/signaling:1

@@ -3,7 +3,7 @@ jenkins/jenkins:latest
 library/nginx:stable
 library/mongo:4
 library/mysql:5.7-oracle
-library/mysql:8.0
+library/mysql:8.0-debian
 ubuntu/bind9
 # crm
 espocrm/espocrm:latest

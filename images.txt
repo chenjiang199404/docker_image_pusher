@@ -1,3 +1,5 @@
+#rancher2.14
+rancher/rancher:v2.14
 #通用
 jenkins/jenkins:latest
 library/nginx:stable
@@ -24,7 +26,7 @@ registry.cn-hangzhou.aliyuncs.com/ossrs/srs:6
 #rancher/dns:v0.17.4
 #rancher/lb-service-haproxy:v0.9.14
 #rancher2.14
-rancher/rancher:2.14
+#rancher/rancher:v2.14
 
 #gitlab
 #gitlab/gitlab-ce:17.5.5-ce.0

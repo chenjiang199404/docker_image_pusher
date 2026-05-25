@@ -1,11 +1,11 @@
 #通用
+openjdk:17-jdk-alpine
 jenkins/jenkins:latest
 library/nginx:stable
 library/mongo:4
 library/mysql:5.7-oracle
 library/mysql:8.0-debian
 ubuntu/bind9
-adoptopenjdk:17
 # crm
 #espocrm/espocrm:latest
 

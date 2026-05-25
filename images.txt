@@ -5,6 +5,7 @@ library/mongo:4
 library/mysql:5.7-oracle
 library/mysql:8.0-debian
 ubuntu/bind9
+adoptopenjdk:17
 # crm
 #espocrm/espocrm:latest
 

@@ -1,5 +1,5 @@
 #通用
-openjdk:17
+ubuntu/jdk:17-24.04_stable
 jenkins/jenkins:latest
 library/nginx:stable
 library/mongo:4

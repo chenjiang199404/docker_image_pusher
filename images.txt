@@ -1,5 +1,5 @@
 #通用
-openjdk:17-jdk-alpine
+openjdk:17
 jenkins/jenkins:latest
 library/nginx:stable
 library/mongo:4

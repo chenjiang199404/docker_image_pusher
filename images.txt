@@ -1,10 +1,21 @@
+#支持的架构
+#ARM：linux/arm64
+#x86：linux/amd64
+#使用方式--platform=linux/arm64
 #通用
 ubuntu/jdk:17-24.04_stable
-jenkins/jenkins:latest
+--platform=linux/arm64 ubuntu/jdk:17-24.04_stable
+
 library/nginx:stable
+--platform=linux/arm64 library/nginx:stable
 library/mongo:4
+--platform=linux/arm64 library/mongo:4
 library/mysql:5.7-oracle
+--platform=linux/arm64 library/mysql:5.7-oracle
 library/mysql:8.0-debian
+--platform=linux/arm64 library/mysql:8.0-debian
+
+jenkins/jenkins:latest
 ubuntu/bind9
 # crm
 #espocrm/espocrm:latest

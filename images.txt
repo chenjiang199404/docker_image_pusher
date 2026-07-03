@@ -10,6 +10,8 @@ library/nginx:stable
 --platform=linux/arm64 library/nginx:stable
 library/mongo:4
 --platform=linux/arm64 library/mongo:4
+library/mongo:8
+--platform=linux/arm64 library/mongo:8
 library/mysql:5.7-oracle
 circleci/mysql:5-oracle-ram
 mysql:8-oracle

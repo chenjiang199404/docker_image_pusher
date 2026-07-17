@@ -3,6 +3,8 @@
 #x86：linux/amd64
 #使用方式--platform=linux/arm64
 #通用
+eclipse-temurin:8-jdk
+--platform linux/arm64 eclipse-temurin:8-jdk
 ubuntu/jdk:17-24.04_stable
 --platform=linux/arm64 ubuntu/jdk:17-24.04_stable
 

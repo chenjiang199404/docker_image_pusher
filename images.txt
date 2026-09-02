@@ -9,6 +9,7 @@ ubuntu/jdk:17-24.04_stable
 --platform=linux/arm64 ubuntu/jdk:17-24.04_stable
 
 minio/minio
+certbot/certbot
 library/nginx:stable
 --platform=linux/arm64 library/nginx:stable
 library/mongo:4
